@@ -36202,5 +36202,12 @@
     "author": "Jack Barnes",
     "description": "Search Zotero annotations and PDFs and insert links to them in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yuukibarns/obsidian-zotero-completion"
+  },
+  {
+    "id": "copy-note-wikilink",
+    "name": "Copy Note Wikilink",
+    "author": "Sharfaroz",
+    "description": "Copy the selected note or search result as a wikilink.",
+    "repo": "sharfaroz7/wikilinkcopy"
   }
 ]
